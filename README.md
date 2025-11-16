@@ -88,7 +88,10 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ## 📊 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TypoxCat&show_icons=true&theme=radical)
 
+
+<!-- make the svg here https://platane.github.io/snk/ -->
 <!-- ## 🐍 GitHub Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiayuqi7813/jiayuqi7813/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiayuqi7813/jiayuqi7813/output/github-contribution-grid-snake.svg">
