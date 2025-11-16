@@ -2,7 +2,7 @@
 
 **CTFer** | **Random Developer**
 
-Passionate about solving challenges, developing secure solutions, and continuously learning about security.
+Passionate about solving challenges, developing stuffs, and continuously learning about security.
 
 <!-- [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.snowywar.top)](https://www.snowywar.top) 
 [![BiliBili](https://img.shields.io/badge/BiliBili-哔哩哔哩-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/8389161)   -->
@@ -30,7 +30,7 @@ Passionate about solving challenges, developing secure solutions, and continuous
 
 
 <!--START_SECTION:waka-->
-**I'm a Late 🦉** 
+**I'm a Night 🦉** 
 
 <!-- ```text
 🌞 Morning                364 commits         █████████░░░░░░░░░░░░░░░░   36.62 % 
