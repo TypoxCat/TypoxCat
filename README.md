@@ -1,8 +1,8 @@
 # TypoxCat 👋
 
-**CTFer** | **Random Developer**
+**CTFer** | **Random Developer** | **Robotics**
 
-Passionate about solving challenges, developing stuffs, and continuously learning about security.
+I play CTF and learn random stuffs
 
 <!-- [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.snowywar.top)](https://www.snowywar.top) 
 [![BiliBili](https://img.shields.io/badge/BiliBili-哔哩哔哩-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/8389161)   -->
